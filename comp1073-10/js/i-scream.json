@@ -39,13 +39,13 @@
       "image": "strawberry-sprinkle.svg"
     },
     {
-      "name": "Stupendous Strawberry",
-      "calories": 425,
+      "name": "Milky Chocolate",
+      "calories": 480,
       "type": "frozen yogurt",
       "ingredients": [
-        "wild strawberries",
+        "Almond Milk",
         "milk chocolate dip",
-        "candy sprinkles"
+        "dark chocolate chips"
       ],
       "image": "strawberry-sprinkle.svg"
     }
