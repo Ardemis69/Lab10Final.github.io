@@ -47,7 +47,18 @@
         "milk chocolate dip",
         "dark chocolate chips"
       ],
-      "image": "strawberry-sprinkle.svg"
+      "image": "chocolate-mint.svg"
+    },
+    {
+      "name": "Oreo Crush Blizzard",
+      "calories": 500,
+      "type": "frozen yogurt",
+      "ingredients": [
+        "Almond Milk",
+        "Oreos",
+        "Cream Blend"
+      ],
+      "image": "ice-cream-xtra1.svg"
     }
   
   ]
